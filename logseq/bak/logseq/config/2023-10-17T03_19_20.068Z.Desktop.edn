@@ -413,4 +413,4 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :journal/page-title-format "yyyy年MM月dd日"
- :graph/settings {:journal? false}}
+ :graph/settings {:journal? true}}
